@@ -8,6 +8,7 @@ body {
   opacity: 0.9;
   text-align: center;
   margin: 0;
+  overflow: scroll;
 }
 
 a {
